@@ -1,0 +1,9 @@
+html, body {
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    border: 0;
+    overflow: hidden; /*  Disable scrollbars */
+    display: block;  /* No floating content on sides */
+  }
